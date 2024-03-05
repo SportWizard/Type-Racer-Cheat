@@ -13,7 +13,7 @@ image = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
 
 #-------------------------------------------
 #extrack words
-path_to_tesseract = r"D:\Tesseract\tesseract.exe"
+path_to_tesseract = r"" #download tesseract and put the location of tesseract.exe
 
 #providing the tesseract executable
 #location to pytesseract library
